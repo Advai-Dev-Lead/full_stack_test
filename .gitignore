@@ -1,0 +1,111 @@
+# Git Ignore for Full Stack Assessment Package
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-*
+.vs/
+
+# Candidate Submissions (Don't commit these!)
+candidate_submissions/
+submissions/
+applicant_*/
+candidate_*/
+
+# Temporary Evaluation Files
+evaluation_notes/
+scoring_sheets/
+*.tmp
+temp_*
+
+# Package Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Generated Documentation
+*.pdf
+*.docx
+
+# Backup Files
+*.bak
+*.backup
+*_backup
+*.old
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables (if you add any)
+.env
+.env.local
+.env.*.local
+.envrc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+coverage/
+
+# Misc
+*.orig
+.cache/
+scratch/
+notes.txt
+TODO.md

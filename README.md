@@ -8,6 +8,8 @@
 
 Build a **Task Management API and UI** that demonstrates your ability to work across the full stack. This exercise evaluates your skills in backend development, frontend implementation, cloud architecture understanding, and software engineering best practices.
 
+You are more than welcome to use an AI Codining Assitant or Co-Pilot as part of this exercise.
+
 ## The Challenge
 
 Create a simplified task management system with the following components:
